@@ -5,13 +5,13 @@ import { getAuth } from "firebase/auth";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA6FuGqCYqOaU9ER33pHYSkZnqVlyjVNjM",
-    authDomain: "first-project-a5bbf.firebaseapp.com",
-    projectId: "first-project-a5bbf",
-    storageBucket: "first-project-a5bbf.appspot.com",
-    messagingSenderId: "667603075250",
-    appId: "1:667603075250:web:045028413ecd16f52709ab",
-    measurementId: "G-3XHJNRGVYY"
+    apiKey: "xxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxxxx",
+    projectId: "xxxxxxxxxxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxxxxxxx",
+    messagingSenderId: "xxxxxxxxxxxx",
+    appId: "xxxxxxxxxxxxxxx",
+    measurementId: "xxxxxxxxxxxxx"
 };
 
 // Initialize Firebase
